@@ -1,17 +1,22 @@
 {
-  "name": "Dashboard Financeiro",
+  "name": "Finanças Dashboard",
   "short_name": "Finanças",
   "start_url": "index.html",
   "display": "standalone",
   "scope": "/",
-  "background_color": "#0f172a",
+  "background_color": "#0f172a", // COR EXATA DO SEU APP
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "icone-512.png",
+      "src": "splash-icon.png", // ÍCONE CLEAN PARA A SPLASH
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable"
+      "purpose": "any maskable" // DIZ AO ANDROID PARA USAR NA SPLASH
+    },
+    {
+      "src": "icone-512.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
+      "sizes": "512x512",
+      "type": "image/png"
     }
   ]
 }
