@@ -3,11 +3,12 @@
   "short_name": "Finanças",
   "start_url": "index.html",
   "display": "standalone",
+  "scope": "/",
   "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "https://cdn-icons-png.flaticon.com/512/2454/2454282.png",
+      "src": "icone-512.png",
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable"
