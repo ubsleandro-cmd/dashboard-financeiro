@@ -14,7 +14,7 @@
       "purpose": "any maskable" // DIZ AO ANDROID PARA USAR NA SPLASH
     },
     {
-      "src": "icone-512.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
+      "src": "splash-icon.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
       "sizes": "512x512",
       "type": "image/png"
     }
