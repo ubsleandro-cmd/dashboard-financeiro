@@ -8,13 +8,13 @@
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "icone-512.png", // ÍCONE CLEAN PARA A SPLASH
+      "src": "https://cdn-icons-png.flaticon.com/512/2454/2454282.png", // ÍCONE CLEAN PARA A SPLASH
       "sizes": "512x512",
       "type": "image/png",
       "purpose": "any maskable" // DIZ AO ANDROID PARA USAR NA SPLASH
     },
     {
-      "src": "icone-512.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
+      "src": "https://cdn-icons-png.flaticon.com/512/2454/2454282.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
       "sizes": "512x512",
       "type": "image/png"
     }
