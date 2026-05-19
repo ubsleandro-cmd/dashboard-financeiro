@@ -4,19 +4,20 @@
   "start_url": "index.html",
   "display": "standalone",
   "scope": "/",
-  "background_color": "#0f172a", // COR EXATA DO SEU APP
+  "background_color": "#0f172a",
   "theme_color": "#0f172a",
   "icons": [
     {
-      "src": "http://googleusercontent.com/image_generation_content/1.png", // ÍCONE CLEAN PARA A SPLASH
+      "src": "http://googleusercontent.com/image_generation_content/1.png",
       "sizes": "512x512",
       "type": "image/png",
-      "purpose": "any maskable" // DIZ AO ANDROID PARA USAR NA SPLASH
+      "purpose": "any"
     },
     {
-      "src": "http://googleusercontent.com/image_generation_content/1.png", // SEU ÍCONE ORIGINAL DA TELA INICIAL
+      "src": "http://googleusercontent.com/image_generation_content/1.png",
       "sizes": "512x512",
-      "type": "image/png"
+      "type": "image/png",
+      "purpose": "maskable"
     }
   ]
 }
